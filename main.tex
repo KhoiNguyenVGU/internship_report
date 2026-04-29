@@ -41,29 +41,13 @@
 \setcounter{page}{2}        % cover is page i; start next at ii
 
 % ── PAGE 2: Company Endorsement ─────────────────────────────
-\chapter*{Company Endorsement}
-\addcontentsline{toc}{chapter}{Company Endorsement}
-
-% [Official company stamp and authorised signature go here]
-
-\clearpage
+\include{sections/endorsement}
 
 % ── PAGE 3: Signed Declaration ──────────────────────────────
-\chapter*{Declaration}
-\addcontentsline{toc}{chapter}{Declaration}
-
-% [Your signed declaration that the report is your own work
-%  and all sources are properly cited goes here]
-
-\clearpage
+\include{sections/declaration}
 
 % ── PAGE 4: Abstract ────────────────────────────────────────
-\chapter*{Abstract}
-\addcontentsline{toc}{chapter}{Abstract}
-
-% [Brief summary of the report goes here]
-
-\clearpage
+\include{sections/abstract}
 
 % ── PAGE 5: Table of Contents ───────────────────────────────
 \tableofcontents
@@ -78,67 +62,31 @@
 % ============================================================
 
 % ── PAGES 6–7: Introduction ─────────────────────────────────
-\chapter{Introduction}
-% [Context and purpose of your internship goes here]
-
-\clearpage
+\include{sections/01_introduction}
 
 % ── PAGES 8–9: Profile of the Organisation ──────────────────
-\chapter{Profile of the Organisation}
-% [Background information on the company goes here]
-
-\clearpage
+\include{sections/02_organisation}
 
 % ── PAGES 10–12: Problems Identified and Challenges Faced ───
-\chapter{Problems Identified and Challenges Faced}
-% [Business or technical issues your work aimed to solve go here]
-
-\clearpage
+\include{sections/03_problems}
 
 % ── PAGES 13–15: Technologies and Frameworks ────────────────
-\chapter{Technologies, Instruments, and Programming Frameworks}
-% [Description of every technology, tool, and framework used goes here]
-
-\clearpage
+\include{sections/04_technologies}
 
 % ── PAGES 16–25: Tasks Assigned ─────────────────────────────
-\chapter{Tasks Assigned}
-% [Detailed explanation of your methodology, code, and
-%  problem-solving — this should be the longest section]
-
-\section{Task Overview}
-
-\section{Methodology}
-
-\section{Implementation}
-
-\section{Challenges and Solutions}
-
-\clearpage
+\include{sections/05_tasks}
 
 % ── PAGES 26–27: Intra-organisation Communication ───────────
-\chapter{Intra-Organisation Communication}
-% [How you interacted with your team and the company hierarchy goes here]
-
-\clearpage
+\include{sections/06_communication}
 
 % ── PAGES 28–30: Results and Skills Developed ───────────────
-\chapter{Results Produced and Skills Developed}
-% [Concrete outcomes of your assigned tasks and competencies gained go here]
-
-\clearpage
+\include{sections/07_results}
 
 % ── PAGE 31: Lessons Learned and Personal Comments ──────────
-\chapter{Lessons Learned and Personal Comments}
-% [Reflections on your experience go here]
-
-\clearpage
+\include{sections/08_lessons}
 
 % ── PAGE 32: Conclusions ────────────────────────────────────
-\chapter{Conclusions}
-% [Summary and closing remarks go here]
-
-\clearpage
+\include{sections/09_conclusions}
 
 % ============================================================
 %  BACK MATTER

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.25)  29 APR 2026 09:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.25)  29 APR 2026 10:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -482,7 +482,7 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 Package hyperref Info: Option `colorlinks' set `true' on input line 31.
 \@quotelevel=\count441
 \@quotereset=\count442
- (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.aux)
+ (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.aux (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/endorsement.aux) (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/declaration.aux) (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/abstract.aux) (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/01_introduction.aux) (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/02_organisation.aux) (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/03_problems.aux) (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/04_technologies.aux) (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/05_tasks.aux) (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/06_communication.aux) (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/07_results.aux) (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/08_lessons.aux) (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/09_conclusions.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -629,17 +629,31 @@ Package pdftex.def Info: assets/Internship Cover.pdf , page1 used on input line 
 
 
  <./assets/Internship Cover.pdf>]
+\openout2 = `sections/endorsement.aux'.
+
+ (sections/endorsement.tex)
 
 [2
 
+
 {C:/Users/khoin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+\openout2 = `sections/declaration.aux'.
+
+ (sections/declaration.tex)
 
 [3
 
 
+
+
 ]
+\openout2 = `sections/abstract.aux'.
+
+ (sections/abstract.tex)
 
 [4
+
+
 
 
 ] (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
@@ -658,79 +672,125 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [5
 
 
-]
-Chapter 1.
 
+]
+\openout2 = `sections/01_introduction.aux'.
+
+ (sections/01_introduction.tex
+Chapter 1.
+)
 
 [6
 
 
-]
-Chapter 2.
 
+]
+\openout2 = `sections/02_organisation.aux'.
+
+ (sections/02_organisation.tex
+Chapter 2.
+)
 
 [7
 
 
-]
-Chapter 3.
 
+
+]
+\openout2 = `sections/03_problems.aux'.
+
+ (sections/03_problems.tex
+Chapter 3.
+)
 
 [8
 
 
-]
-Chapter 4.
 
+
+]
+\openout2 = `sections/04_technologies.aux'.
+
+ (sections/04_technologies.tex
+Chapter 4.
+)
 
 [9
 
 
-]
-Chapter 5.
 
+
+]
+\openout2 = `sections/05_tasks.aux'.
+
+ (sections/05_tasks.tex
+Chapter 5.
+)
 
 [10
 
 
-]
-Chapter 6.
 
+
+]
+\openout2 = `sections/06_communication.aux'.
+
+ (sections/06_communication.tex
+Chapter 6.
+)
 
 [11
 
 
-]
-Chapter 7.
 
+
+]
+\openout2 = `sections/07_results.aux'.
+
+ (sections/07_results.tex
+Chapter 7.
+)
 
 [12
 
 
-]
-Chapter 8.
 
+
+]
+\openout2 = `sections/08_lessons.aux'.
+
+ (sections/08_lessons.tex
+Chapter 8.
+)
 
 [13
 
 
-]
-Chapter 9.
 
+
+]
+\openout2 = `sections/09_conclusions.aux'.
+
+ (sections/09_conclusions.tex
+Chapter 9.
+)
 
 [14
 
 
+
+
 ]
 
-LaTeX Warning: Empty bibliography on input line 150.
+LaTeX Warning: Empty bibliography on input line 98.
 
 
 
 [15
 
 
-] (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.aux)
+
+] (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.aux (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/endorsement.aux) (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/declaration.aux) (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/abstract.aux) (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/01_introduction.aux) (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/02_organisation.aux) (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/03_problems.aux) (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/04_technologies.aux) (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/05_tasks.aux) (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/06_communication.aux) (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/07_results.aux) (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/08_lessons.aux) (c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections/09_conclusions.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
@@ -742,10 +802,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19206 strings out of 468081
- 344587 string characters out of 5425788
- 1264897 words of memory out of 5000000
- 47652 multiletter control sequences out of 15000+600000
+ 19508 strings out of 468081
+ 361378 string characters out of 5425788
+ 1294524 words of memory out of 5000000
+ 47868 multiletter control sequences out of 15000+600000
  631976 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,17n,79p,790b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
