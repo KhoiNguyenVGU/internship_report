@@ -21,6 +21,7 @@
 \singlespacing              % single line spacing throughout
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{6pt}
+\renewcommand{\contentsname}{Table of Contents}
 
 % ── Hyperref setup ──────────────────────────────────────────
 \hypersetup{
@@ -43,16 +44,18 @@
 % ── PAGE 2: Declaration & Company Endorsement ───────────────
 \include{sections/declaration}
 
-% ── PAGE 4: Abstract ────────────────────────────────────────
-\include{sections/abstract}
-
-% ── PAGE 5: Table of Contents ───────────────────────────────
+% ── PAGE 3: Table of Contents ───────────────────────────────
+\phantomsection
+\addcontentsline{toc}{chapter}{Table of Contents}
 \tableofcontents
 \clearpage
 
+% ── PAGE 4: Abstract ────────────────────────────────────────
+\include{sections/abstract}
+
 % ── Switch to arabic numerals for the main body ─────────────
 \pagenumbering{arabic}
-\setcounter{page}{6}        % main body starts at page 6
+\setcounter{page}{1}        % main body starts at page 6
 
 % ============================================================
 %  MAIN BODY

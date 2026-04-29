@@ -1,16 +1,23 @@
 \contentsline {chapter}{Declaration}{ii}{chapter*.1}%
-\contentsline {chapter}{Abstract}{iii}{chapter*.2}%
-\contentsline {chapter}{\numberline {1}Introduction}{6}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Profile of the Organisation}{7}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Problems Identified and Challenges Faced}{8}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Technologies, Instruments, and Programming Frameworks}{9}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Tasks Assigned}{10}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Task Overview}{10}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Methodology}{10}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Implementation}{10}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Challenges and Solutions}{10}{section.5.4}%
-\contentsline {chapter}{\numberline {6}Intra-Organisation Communication}{11}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Results Produced and Skills Developed}{12}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Lessons Learned and Personal Comments}{13}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Conclusions}{14}{chapter.9}%
-\contentsline {chapter}{List of References}{15}{chapter*.4}%
+\contentsline {chapter}{Table of Contents}{iii}{section*.2}%
+\contentsline {chapter}{Abstract}{v}{chapter*.4}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Profile of the Organisation}{2}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Problems Identified and Challenges Faced}{3}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Problems Identified}{3}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Challenges Faced}{3}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Technologies, Instruments, and Programming Frameworks}{4}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Tasks Assigned}{5}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Task Overview}{5}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Methodology}{5}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Implementation}{5}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Challenges and Solutions}{5}{section.5.4}%
+\contentsline {chapter}{\numberline {6}Intra-Organisation Communication}{6}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Results Produced and Skills Developed}{7}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Results Produced}{7}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Skills Developed}{7}{section.7.2}%
+\contentsline {chapter}{\numberline {8}Lessons Learned and Personal Comments}{8}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Lessons Learned}{8}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Personal Comments}{8}{section.8.2}%
+\contentsline {chapter}{\numberline {9}Conclusions}{9}{chapter.9}%
+\contentsline {chapter}{List of References}{10}{chapter*.5}%

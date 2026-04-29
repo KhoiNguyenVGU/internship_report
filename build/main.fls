@@ -251,16 +251,16 @@ INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tf
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
 INPUT C:\Users\khoin\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
+OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
 INPUT .\sections\abstract.tex
 INPUT .\sections\abstract.tex
 OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\abstract.aux
 INPUT .\sections\abstract.tex
 INPUT .\sections\abstract.tex
 INPUT sections\abstract.tex
-INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
-INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
-INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
-OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
 INPUT .\sections\01_introduction.tex
 INPUT .\sections\01_introduction.tex
 OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\01_introduction.aux
@@ -279,6 +279,8 @@ OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + The
 INPUT .\sections\03_problems.tex
 INPUT .\sections\03_problems.tex
 INPUT sections\03_problems.tex
+INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT .\sections\04_technologies.tex
 INPUT .\sections\04_technologies.tex
 OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\04_technologies.aux
@@ -291,8 +293,6 @@ OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + The
 INPUT .\sections\05_tasks.tex
 INPUT .\sections\05_tasks.tex
 INPUT sections\05_tasks.tex
-INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
-INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT .\sections\06_communication.tex
 INPUT .\sections\06_communication.tex
 OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\06_communication.aux
