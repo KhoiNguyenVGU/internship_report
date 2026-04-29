@@ -1,0 +1,152 @@
+% ============================================================
+%  VGU Practical Training Report
+%  Structure-only template — fill in content as needed
+% ============================================================
+\documentclass[12pt, a4paper]{report}
+
+% ── Packages ────────────────────────────────────────────────
+\usepackage[a4paper, margin=2.5cm]{geometry}
+\usepackage{setspace}       % line spacing
+\usepackage{pdfpages}       % include cover PDF
+\usepackage{graphicx}       % figures
+\graphicspath{{img/}{assets/}}
+\usepackage{booktabs}       % tables
+\usepackage{caption}        % figure/table captions
+\usepackage{hyperref}       % clickable TOC & references
+\usepackage{biblatex}       % bibliography
+\usepackage{lipsum}         % placeholder text — remove when writing content
+\addbibresource{references.bib}
+
+% ── Global typography ───────────────────────────────────────
+\singlespacing              % single line spacing throughout
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+
+% ── Hyperref setup ──────────────────────────────────────────
+\hypersetup{
+    colorlinks = true,
+    linkcolor  = black,
+    citecolor  = black,
+    urlcolor   = blue,
+}
+
+% ============================================================
+\begin{document}
+
+% ── PAGE 1: Cover (external PDF) ────────────────────────────
+\includepdf[pages=1]{assets/Internship Cover.pdf}
+
+% ── Preliminary pages use roman numerals ────────────────────
+\pagenumbering{roman}
+\setcounter{page}{2}        % cover is page i; start next at ii
+
+% ── PAGE 2: Company Endorsement ─────────────────────────────
+\chapter*{Company Endorsement}
+\addcontentsline{toc}{chapter}{Company Endorsement}
+
+% [Official company stamp and authorised signature go here]
+
+\clearpage
+
+% ── PAGE 3: Signed Declaration ──────────────────────────────
+\chapter*{Declaration}
+\addcontentsline{toc}{chapter}{Declaration}
+
+% [Your signed declaration that the report is your own work
+%  and all sources are properly cited goes here]
+
+\clearpage
+
+% ── PAGE 4: Abstract ────────────────────────────────────────
+\chapter*{Abstract}
+\addcontentsline{toc}{chapter}{Abstract}
+
+% [Brief summary of the report goes here]
+
+\clearpage
+
+% ── PAGE 5: Table of Contents ───────────────────────────────
+\tableofcontents
+\clearpage
+
+% ── Switch to arabic numerals for the main body ─────────────
+\pagenumbering{arabic}
+\setcounter{page}{6}        % main body starts at page 6
+
+% ============================================================
+%  MAIN BODY
+% ============================================================
+
+% ── PAGES 6–7: Introduction ─────────────────────────────────
+\chapter{Introduction}
+% [Context and purpose of your internship goes here]
+
+\clearpage
+
+% ── PAGES 8–9: Profile of the Organisation ──────────────────
+\chapter{Profile of the Organisation}
+% [Background information on the company goes here]
+
+\clearpage
+
+% ── PAGES 10–12: Problems Identified and Challenges Faced ───
+\chapter{Problems Identified and Challenges Faced}
+% [Business or technical issues your work aimed to solve go here]
+
+\clearpage
+
+% ── PAGES 13–15: Technologies and Frameworks ────────────────
+\chapter{Technologies, Instruments, and Programming Frameworks}
+% [Description of every technology, tool, and framework used goes here]
+
+\clearpage
+
+% ── PAGES 16–25: Tasks Assigned ─────────────────────────────
+\chapter{Tasks Assigned}
+% [Detailed explanation of your methodology, code, and
+%  problem-solving — this should be the longest section]
+
+\section{Task Overview}
+
+\section{Methodology}
+
+\section{Implementation}
+
+\section{Challenges and Solutions}
+
+\clearpage
+
+% ── PAGES 26–27: Intra-organisation Communication ───────────
+\chapter{Intra-Organisation Communication}
+% [How you interacted with your team and the company hierarchy goes here]
+
+\clearpage
+
+% ── PAGES 28–30: Results and Skills Developed ───────────────
+\chapter{Results Produced and Skills Developed}
+% [Concrete outcomes of your assigned tasks and competencies gained go here]
+
+\clearpage
+
+% ── PAGE 31: Lessons Learned and Personal Comments ──────────
+\chapter{Lessons Learned and Personal Comments}
+% [Reflections on your experience go here]
+
+\clearpage
+
+% ── PAGE 32: Conclusions ────────────────────────────────────
+\chapter{Conclusions}
+% [Summary and closing remarks go here]
+
+\clearpage
+
+% ============================================================
+%  BACK MATTER
+% ============================================================
+
+% ── PAGE 33: List of References ─────────────────────────────
+\chapter*{List of References}
+\addcontentsline{toc}{chapter}{List of References}
+\printbibliography[heading=none]
+
+\end{document}
