@@ -153,9 +153,6 @@ INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.ltd.t
 INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.aux
 INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.aux
 INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.aux
-INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\endorsement.aux
-INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\endorsement.aux
-INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\endorsement.aux
 INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\declaration.aux
 INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\declaration.aux
 INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\declaration.aux
@@ -236,30 +233,14 @@ INPUT .\assets\Internship Cover.pdf
 INPUT .\assets\Internship Cover.pdf
 INPUT .\assets\Internship Cover.pdf
 INPUT .\assets\Internship Cover.pdf
-INPUT .\sections\endorsement.tex
-INPUT .\sections\endorsement.tex
-OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\endorsement.aux
-INPUT .\sections\endorsement.tex
-INPUT .\sections\endorsement.tex
-INPUT sections\endorsement.tex
-INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
-INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\khoin\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT .\sections\declaration.tex
 INPUT .\sections\declaration.tex
 OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\declaration.aux
 INPUT .\sections\declaration.tex
 INPUT .\sections\declaration.tex
 INPUT sections\declaration.tex
-INPUT .\sections\abstract.tex
-INPUT .\sections\abstract.tex
-OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\abstract.aux
-INPUT .\sections\abstract.tex
-INPUT .\sections\abstract.tex
-INPUT sections\abstract.tex
-INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
-INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
-INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
+INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
@@ -269,6 +250,16 @@ INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\khoin\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\sections\abstract.tex
+INPUT .\sections\abstract.tex
+OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\abstract.aux
+INPUT .\sections\abstract.tex
+INPUT .\sections\abstract.tex
+INPUT sections\abstract.tex
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
 OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
 INPUT .\sections\01_introduction.tex
 INPUT .\sections\01_introduction.tex
@@ -327,9 +318,6 @@ INPUT .\sections\09_conclusions.tex
 INPUT .\sections\09_conclusions.tex
 INPUT sections\09_conclusions.tex
 INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.aux
-INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\endorsement.aux
-INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\endorsement.aux
-INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\endorsement.aux
 INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\declaration.aux
 INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\declaration.aux
 INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\declaration.aux
