@@ -283,6 +283,14 @@ OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + The
 INPUT .\sections\03_problems.tex
 INPUT .\sections\03_problems.tex
 INPUT sections\03_problems.tex
+INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\img\mis_detection_example.jpg
+INPUT .\img\mis_detection_example.jpg
+INPUT .\img\mis_detection_example.jpg
+INPUT .\img\mis_detection_example.jpg
+INPUT .\img\mis_detection_example.jpg
+INPUT .\img\mis_detection_example.jpg
 INPUT .\sections\04_technologies.tex
 INPUT .\sections\04_technologies.tex
 OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\04_technologies.aux
