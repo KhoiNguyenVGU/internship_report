@@ -13,13 +13,13 @@ For large Fast-Moving Consumer Goods (FMCG) companies operating across massive r
 
 INNOVA US is an American automotive technology company facing two core data challenges in the automotive diagnostics domain. First, valuable technical knowledge — spread across thousands of unstructured manufacturer documents, OEM websites, and automotive forums — could not be efficiently extracted, normalised, and made queryable at scale. Second, there was no automated system to collect and categorise the vast volume of owner-reported Q\&A discussions scattered across the internet for specific vehicle models. Both problems required AI-driven pipelines to transform unstructured, dispersed data into structured, actionable datasets suitable for powering diagnostic tools.
 
-\subsection{Outsourcing Services (GeneSolutions)}
+\subsection{Software Development (GeneSolutions)}
 
 GeneSolutions, a Vietnamese healthcare company specialising in genetic testing and prenatal care, required a comprehensive mobile application to support expectant mothers throughout their pregnancy journey and beyond. The underlying problems were numerous: pregnant women lacked access to timely, personalised medical guidance outside clinic hours; parents had difficulty tracking critical prenatal milestones and newborn vaccination schedules; financial planning for pregnancy costs was manual and opaque; and newborn development tracking was fragmented across physical records. Additionally, from a business operations perspective, the marketing team had no way to update app content or personalisation settings without requiring a full software release. The project therefore required both a patient-facing product and an internal admin portal to solve these problems holistically.
 
 \section{Challenges Faced During the Internship}
 
-\subsection{Technically Infeasible Client Requirements}
+\subsection{Challenging Client Requirements}
 
 A recurring challenge was managing client expectations around what could realistically be delivered within the agreed timeline and budget. For example, during the Masan display tracking project, the client requested a 98\% AI detection accuracy rate under a tight delivery schedule. Achieving such a level of precision with a newly deployed model in a live, uncontrolled retail environment required careful negotiation, setting realistic milestones, and managing the client's expectations transparently throughout the project.
 
@@ -45,7 +45,7 @@ One of the most significant challenges encountered during the internship was a c
 
 At the outset, the client had agreed to the operating assumptions of AIVision's detection algorithm, which was designed to work with a single row of SKUs arranged on each shelf of a display rack. Initially, the system performed as expected. However, as deployment scaled, a growing volume of complaints about low detection accuracy was received. Upon investigation, it was discovered that store staff at many locations had been stacking multiple rows of products on a single shelf — a real-world behaviour that fell outside the algorithm's designed operating conditions and caused widespread misdetection.
 
-To resolve the issue, the following steps were taken. First, the problem was diagnosed and documented in detail, including the specific request numbers, timestamps, incorrectly detected SKUs, and recorded accuracy figures. Second, the situation was escalated internally to the development team, with a clear explanation of the root cause and a proposed solution involving a different detection algorithm better suited to variable stacking patterns. Third, a meeting was arranged with the Masan team to transparently communicate the problem, explain the cause, and present the proposed fix. The client was receptive to the solution, and following their agreement, the updated model was deployed. Detection accuracy returned to an acceptable level and complaints subsided.
+To resolve the issue, the following steps were taken. First, the problem was diagnosed and documented in detail, including the specific request numbers, timestamps, incorrectly detected SKUs, and recorded accuracy figures. Second, the situation was escalated internally to the development team, with a clear explanation of the root cause and a proposed solution involving a different detection algorithm better suited to variable stacking patterns. Third, a meeting was arranged with the Masan team to transparently communicate the problem, explain the cause, and present the proposed fix. Ultimately, the client was receptive to the solution, and following their agreement, the updated model was deployed. Detection accuracy returned to an acceptable level and complaints subsided.
 
 This experience highlighted the importance of proactive monitoring, clear internal escalation, and transparent client communication when production issues arise.
 

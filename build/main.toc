@@ -12,9 +12,9 @@
 \contentsline {section}{\numberline {3.1}Business Problems Addressed}{4}{section.3.1}%
 \contentsline {subsection}{\numberline {3.1.1}AI Display Tracking (Masan, Syngenta, P\&G)}{4}{subsection.3.1.1}%
 \contentsline {subsection}{\numberline {3.1.2}Agentic AI (INNOVA US)}{4}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}Outsourcing Services (GeneSolutions)}{5}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.3}Software Development (GeneSolutions)}{5}{subsection.3.1.3}%
 \contentsline {section}{\numberline {3.2}Challenges Faced During the Internship}{5}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Technically Infeasible Client Requirements}{5}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.1}Challenging Client Requirements}{5}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}Vague and Incomplete Requirements}{5}{subsection.3.2.2}%
 \contentsline {subsection}{\numberline {3.2.3}Communication Gap with Non-Technical Clients}{5}{subsection.3.2.3}%
 \contentsline {subsection}{\numberline {3.2.4}Scope Creep and Mid-Project Requirement Changes}{6}{subsection.3.2.4}%
