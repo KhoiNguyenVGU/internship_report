@@ -1,4 +1,51 @@
 \chapter{Technologies, Instruments, and Programming Frameworks}
 \label{chap:tech}
 
-% [Description of every technology, tool, and framework used goes here]
+This chapter describes the tools, frameworks, and platforms exercised throughout the internship, grouped by their primary purpose.
+
+\section{Wireframing and UI Design}
+
+\subsection{Figma and FigJam}
+
+Figma is a browser-based, collaborative interface design tool widely used in the software industry for wireframing, prototyping, and high-fidelity UI design. FigJam is Figma's companion whiteboarding tool, designed for brainstorming, flowcharting, and real-time team collaboration. Both tools were used extensively during the GeneSolutions mobile application project. Figma was the primary workspace for constructing wireframes, designing screen mockups, and defining button flows and navigation logic. FigJam was used for mapping out user flows and collaborating with frontend and backend developers to align on interface logic before implementation. Completed designs were also presented to the client directly from Figma during review and demo sessions.
+
+\subsection{Stitch AI}
+
+Stitch is an AI-powered UI design tool developed by Google that generates interface designs from natural language prompts. Rather than starting from a blank canvas, a textual description of a screen's purpose and content can be provided, and Stitch produces a first-draft UI layout automatically. During the GeneSolutions project, Stitch was used as a starting point to accelerate the early design phase — prompting it to generate initial screen drafts, which were then imported into Figma for refinement, adjustment to the client's brand guidelines, and further iteration. This workflow significantly reduced the time spent on initial layout construction.
+
+\subsection{React and TypeScript}
+
+React is a widely adopted JavaScript library for building component-based user interfaces, and TypeScript is a statically typed superset of JavaScript that improves code reliability and developer tooling. In addition to the Figma-based design workflow, React and TypeScript were used to vibe-code UI screens for the GeneSolutions mobile application. This approach — using an AI-assisted coding workflow to generate interface code from design intent — offered a faster alternative to manual Figma design for certain screens, allowing UI to be prototyped and iterated at a higher pace without being bottlenecked by pixel-level design work.
+
+\section{Project Management}
+
+\subsection{Azure DevOps}
+
+Azure DevOps is a Microsoft platform that provides an integrated suite of tools for software project planning, version control, and delivery management. The primary feature used during the internship was the Boards module, which supports Agile sprint-based project management. This included creating and managing sprint cycles, defining and assigning tasks and subtasks to team members, setting priorities and deadlines, and tracking the status of each work item (e.g. To Do, In Progress, Done) across multiple projects simultaneously. Azure DevOps Boards provided a shared, real-time view of project progress for both the internal team and, where applicable, the client's project contacts.
+
+\section{Requirements Gathering and Documentation}
+
+\subsection{Microsoft Office}
+
+Microsoft Office — primarily Word and Excel — was used for formal documentation throughout the internship. Word was used to produce technical requirements specifications, functional guidelines, and meeting minutes following client and internal team discussions. Excel served as the primary tool for structured data management, covering a wide range of tasks including bug report tracking, SKU tracking sheets, client question lists, logging detected accuracy issues, and maintaining reference lists for quality control purposes.
+
+\section{Quality Control}
+
+\subsection{Label Studio}
+
+Label Studio is an open-source data labelling platform used to annotate training and evaluation datasets for AI and machine learning models. During the internship, it was used as part of the monthly quality control process for the Masan AI Display Tracking project. Specifically, Label Studio was used to review and correct incorrect bounding box annotations — cases where the AI model had mis-detected object boundaries or incorrectly identified SKU rows on retail display shelves. The corrected annotations were then compiled into a QC report and submitted to Masan for monthly tracking and reporting. The development team also leveraged this report to support model improvement.
+
+\section{AI-Assisted Tools}
+
+\subsection{NotebookLM}
+
+NotebookLM is an AI research and note-taking tool developed by Google that allows users to upload documents and query them conversationally. It was used during requirements gathering to analyse large volumes of client-provided documentation — extracting relevant functional requirements, summarising key points, and identifying gaps or ambiguities. NotebookLM was also used to process audio recordings of client meetings and generate structured meeting minutes, significantly reducing the time required for post-meeting documentation.
+
+\subsection{Claude}
+
+Claude is a large language model developed by Anthropic, used during the internship as an AI writing assistant for technical documentation. It was particularly useful for drafting and refining client-facing documents, including functional requirement guidelines, question lists sent to clients during the requirements gathering phase, SKU tracking tables, and bug report summaries. Claude's ability to maintain context across long documents made it well-suited to producing consistent, professional-quality technical writing.
+
+\subsection{ChatGPT and Gemini}
+
+ChatGPT (developed by OpenAI) and Gemini (developed by Google) were used as general-purpose AI assistants throughout the internship for day-to-day tasks such as drafting emails, looking up technical concepts, and supporting quick analysis or summarisation tasks. While their usage was less specialised than NotebookLM or Claude, they served as versatile productivity tools that reduced the time spent on routine cognitive tasks.
+

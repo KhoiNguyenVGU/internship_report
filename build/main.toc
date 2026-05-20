@@ -21,17 +21,31 @@
 \contentsline {subsection}{\numberline {3.2.5}Expectation of Constant Availability}{6}{subsection.3.2.5}%
 \contentsline {section}{\numberline {3.3}A Specific Challenge faced: AI Detection Failure in the Masan Project}{6}{section.3.3}%
 \contentsline {chapter}{\numberline {4}Technologies, Instruments, and Programming Frameworks}{8}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Tasks Assigned}{9}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Task Overview}{9}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Methodology}{9}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Implementation}{9}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Challenges and Solutions}{9}{section.5.4}%
-\contentsline {chapter}{\numberline {6}Intra-Organization Communication}{10}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Results Produced and Skills Developed}{11}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Results Produced}{11}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Skills Developed}{11}{section.7.2}%
-\contentsline {chapter}{\numberline {8}Lessons Learned and Personal Comments}{12}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Lessons Learned}{12}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Personal Comments}{12}{section.8.2}%
-\contentsline {chapter}{\numberline {9}Conclusions}{13}{chapter.9}%
-\contentsline {chapter}{List of References}{14}{chapter*.6}%
+\contentsline {section}{\numberline {4.1}Wireframing and UI Design}{8}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Figma and FigJam}{8}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Stitch AI}{8}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}React and TypeScript}{9}{subsection.4.1.3}%
+\contentsline {section}{\numberline {4.2}Project Management}{9}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Azure DevOps}{9}{subsection.4.2.1}%
+\contentsline {section}{\numberline {4.3}Requirements Gathering and Documentation}{9}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Microsoft Office}{9}{subsection.4.3.1}%
+\contentsline {section}{\numberline {4.4}Quality Control}{9}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Label Studio}{9}{subsection.4.4.1}%
+\contentsline {section}{\numberline {4.5}AI-Assisted Tools}{10}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}NotebookLM}{10}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Claude}{10}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}ChatGPT and Gemini}{10}{subsection.4.5.3}%
+\contentsline {chapter}{\numberline {5}Tasks Assigned}{11}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Task Overview}{11}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Methodology}{11}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Implementation}{11}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Challenges and Solutions}{11}{section.5.4}%
+\contentsline {chapter}{\numberline {6}Intra-Organization Communication}{12}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Results Produced and Skills Developed}{13}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Results Produced}{13}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Skills Developed}{13}{section.7.2}%
+\contentsline {chapter}{\numberline {8}Lessons Learned and Personal Comments}{14}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Lessons Learned}{14}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Personal Comments}{14}{section.8.2}%
+\contentsline {chapter}{\numberline {9}Conclusions}{15}{chapter.9}%
+\contentsline {chapter}{List of References}{16}{chapter*.6}%
