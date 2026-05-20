@@ -1,6 +1,6 @@
 \contentsline {chapter}{Declaration}{ii}{chapter*.1}%
 \contentsline {chapter}{Table of Contents}{iii}{section*.2}%
-\contentsline {chapter}{Abstract}{v}{chapter*.4}%
+\contentsline {chapter}{Abstract}{vi}{chapter*.4}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Profile of the Organization}{2}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Company Overview and History}{2}{section.2.1}%
@@ -38,15 +38,19 @@
 \contentsline {subsection}{\numberline {5.1.2}Baby Naming Tool}{11}{subsection.5.1.2}%
 \contentsline {subsection}{\numberline {5.1.3}After Birth Suite}{12}{subsection.5.1.3}%
 \contentsline {subsection}{\numberline {5.1.4}Admin Portal}{13}{subsection.5.1.4}%
-\contentsline {section}{\numberline {5.2}Project Management}{15}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Requirements Gathering and Documentation}{15}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Quality Control}{15}{section.5.4}%
-\contentsline {chapter}{\numberline {6}Intra-Organization Communication}{16}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Results Produced and Skills Developed}{17}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Results Produced}{17}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Skills Developed}{17}{section.7.2}%
-\contentsline {chapter}{\numberline {8}Lessons Learned and Personal Comments}{18}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Lessons Learned}{18}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Personal Comments}{18}{section.8.2}%
-\contentsline {chapter}{\numberline {9}Conclusions}{19}{chapter.9}%
-\contentsline {chapter}{List of References}{20}{chapter*.9}%
+\contentsline {section}{\numberline {5.2}Project Management}{14}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Sprint Planning on Azure DevOps}{15}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Meeting Schedule and Facilitation}{15}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Task and Timeline Tracking}{16}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Client Feedback and Dev Team Coordination}{16}{subsection.5.2.4}%
+\contentsline {section}{\numberline {5.3}Requirements Gathering and Documentation}{16}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Quality Control}{16}{section.5.4}%
+\contentsline {chapter}{\numberline {6}Intra-Organization Communication}{17}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Results Produced and Skills Developed}{18}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Results Produced}{18}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Skills Developed}{18}{section.7.2}%
+\contentsline {chapter}{\numberline {8}Lessons Learned and Personal Comments}{19}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Lessons Learned}{19}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Personal Comments}{19}{section.8.2}%
+\contentsline {chapter}{\numberline {9}Conclusions}{20}{chapter.9}%
+\contentsline {chapter}{List of References}{21}{chapter*.11}%
