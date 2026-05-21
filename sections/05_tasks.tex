@@ -103,4 +103,77 @@ A significant part of the project management role involved acting as the interfa
 
 \section{Requirements Gathering and Documentation}
 
+Requirements gathering and documentation work spanned all five projects and produced a range of deliverable types — structured requirement specifications, issue trackers, quick-turnaround question lists, field operation guidelines, and meeting minutes. Microsoft Word, Excel, and PowerPoint each served a distinct purpose depending on the nature of the output.
+
+\subsection{Requirements Specifications}
+
+The INNOVA US project involved two primary requirements: building a structured database of vehicle symptoms from Technical Service Bulletins (TSBs), and crawling question-and-answer data organised by Year, Make, and Model. The client supplied original requirement documents in PDF format. These were reviewed, then converted into Excel spreadsheets to impose a consistent tabular structure — separating each requirement into discrete fields covering scope, input/output format, acceptance criteria, and technical notes. The structured format made it significantly easier to distribute the requirements to the development team in an actionable form and to cross-reference individual items during review. Following an internal walkthrough, the requirements were presented back to the client in review meetings to confirm interpretation and obtain approval before development began. The structured requirements sheet for R1 is shown in Figure~\ref{fig:innovareqs}.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.95\textwidth]{img/innova_requirements.png}
+    \caption{Structured Excel requirements sheet for INNOVA US. \href{https://docs.google.com/spreadsheets/d/1ktXFAzkXQekqu4etl2QwbCVoSwxQ9zfvWX9zIfY616Q/edit?usp=drive_link}{Click here to view the full document.}}
+    \label{fig:innovareqs}
+\end{figure}
+
+\subsection{SKU and Bug Tracking}
+
+Excel spreadsheets were used extensively across three projects — Masan, Syngenta, and P\&G — to maintain structured records of SKU data used for model training and to log detection issues reported in the field.
+
+For model training purposes, a dedicated SKU tracking sheet was maintained for each project. Each row in the sheet represented a single SKU and recorded the SKU identifier, product name, image, received date, status, etc. These sheets served as the ground truth reference for the development and QC teams when preparing and validating training datasets. An example of the P\&G SKU tracking sheet is shown in Figure~\ref{fig:skutracking}.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.95\textwidth]{img/sku_tracking.png}
+    \caption{SKU tracking spreadsheet for the P\&G project.}
+    \label{fig:skutracking}
+\end{figure}
+
+For the Masan project, a separate bug tracking sheet was maintained alongside the SKU registry. Masan's sales staff used a mobile application portal to photograph retail shelves and receive AI detection results in real time. When a detection failed or produced incorrect output, staff would report the issue directly via a dedicated group chat. These reports were captured and logged with each row recording the message link, request number, date of incident, the customer's complaint description, and proof photographs. This tracker served both as a running log of all reported issues and as the primary input for the monthly Quality Control review cycle, where accumulated bugs were batched and submitted to the development team for model retraining.
+
+\subsection{Async Question Lists}
+
+Not all clarifications warranted a formal meeting. When the development team had a set of discrete questions for a client — such as ambiguous field definitions, edge case handling, or data format confirmations — an asynchronous question list was prepared in Excel. The template allowed developers to enter their questions alongside their current understanding or proposed interpretation, which the client could then fill in at their own pace and return. The completed sheet was reviewed and summarised before being fed back to the development team. This approach reduced the overhead of scheduling short alignment meetings while keeping client communication traceable and documented.
+
+For the INNOVA US project, question lists were used extensively during the TSB processing phase to resolve ambiguous fix-name mappings. Each row in the sheet identified the source file or field, the raw value extracted by the AI, the standardised value the model had mapped it to, and an open question asking the client to confirm or correct the mapping. For example, one entry queried whether the raw fix name ``replacing the URL(s)'' should map to the standard ``Cannot match fixname'' given the absence of a close match in the INNOVA fix-name list, while another asked whether all 2024 model variants containing the suffix ``e'' should be treated uniformly as electric vehicles. Client responses were returned in a dedicated answer column, providing clear decisions that could be applied consistently across the dataset. An example of the INNOVA question list is shown in Figure~\ref{fig:innovaqlist}.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.95\textwidth]{img/innova_question_list.png}
+    \caption{Async question list for the INNOVA US project. \href{https://docs.google.com/spreadsheets/d/1TxyyTBFIgZ1fYk8Tj0ZluDkXAjctavH9DgGETKjopJ0/edit?usp=sharing}{Click here to view the full document.}}
+    \label{fig:innovaqlist}
+\end{figure}
+
+\subsection{Field Photography Guidelines}
+
+For the Syngenta project, the AI display tracking system required a consistent supply of planogram photographs taken by Syngenta's sales staff across retail stores. To ensure photo quality was sufficient for accurate SKU detection, a set of photography guidelines was produced as a PowerPoint presentation. The document covered camera angle, recommended distance from the shelf, lighting conditions to avoid glare or shadow, phone or camera hold technique, resolution requirements, and step-by-step instructions for capturing multi-section displays. The guidelines were developed in collaboration with Syngenta's own Business Analyst, whose prior experience with similar field operations informed much of the practical advice. The final document was distributed to the Syngenta sales team for use during their store visits. \href{https://docs.google.com/presentation/d/1EplZqxE6QRnJwkoFSmOROBI-ZgtiMAWhaVwrPOwTQXU/edit?usp=sharing}{Click here to view the photography guidelines.}
+
+\subsection{Meeting Minutes}
+
+Following client-facing and key internal meetings, meeting minutes were written up in Microsoft Word. Each document captured the agenda, key discussion points, decisions reached, and action items assigned with responsible parties and target dates. Where audio recordings were available, NotebookLM was used to assist with transcription and extraction of key points before the minutes were drafted and circulated. Minutes served both as a reference record for the team and as a formal confirmation of agreed scope or decisions that could be revisited in later sprints. An example meeting minute document for the GeneSolutions mobile application project — covering date and time, discussion points, agreed decisions, timeline, and next steps — can be accessed \href{https://docs.google.com/document/d/1shnJYx8qj8C8NVCS9QnvWluF2xeUx23HgERFKZov9Xs/edit?usp=drive_link}{here}.
+
 \section{Quality Control}
+
+Quality control work during the internship was concentrated on the Masan AI Display Tracking project, where a monthly QC cycle was established to measure detection accuracy, surface systematic errors, and provide the development team with annotated data for model improvement.
+
+\subsection{Monthly Sampling and Labelling}
+
+Each month, a random sample of 1,000 shelf images captured by Masan's sales staff was drawn from the detection pipeline for manual review. The sample was selected to cover a representative spread of store locations, product categories, and shooting conditions. The QC team — consisting of me and dedicated QC staff — then worked through the sampled images over a two-week window using Label Studio, an open source data labeling and AI evaluation platform . For each image, the raw bounding box detections produced by the AI model were reviewed side by side with the original photograph. Where detections were incorrect — whether due to misidentified SKUs, missed items, duplicate boxes, or mis-labelled product codes — the annotations were corrected manually by redrawing or relabelling the affected regions. An example of the Label Studio labelling interface for a Masan refrigerated display is shown in Figure~\ref{fig:labelstudio}, illustrating the bounding box overlay and per-region SKU assignment panel.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.95\textwidth]{img/label_studio.png}
+    \caption{Label Studio annotation interface for the Masan project.}
+    \label{fig:labelstudio}
+\end{figure}
+
+\subsection{QC Report and Handoff}
+
+Upon completion of the two-week labelling window, the corrected annotations and detection outcomes were compiled into a monthly QC Excel report. The report documented per-image accuracy statistics including the number of AI-detected boxes versus ground truth boxes, True Positives (TP), False Positives (FP), False Negatives (FN), Precision, Recall, F1 Score, and Jaccard Index. For each image where corrections were made, a change log entry described the specific modification — for example, relabelling a box from \texttt{[SKU006]} to \texttt{[SKU232]}, deleting a spurious detection, or adjusting a bounding box position with its IoU delta. This report served two purposes: it was sent to Masan as the official monthly quality assurance deliverable, providing the client with a transparent record of detection performance; and a copy was shared internally with the development team to inform the next retraining cycle, giving the AI engineers a structured set of confirmed errors and corrected labels to incorporate into updated training data. The QC report is shown in Figure~\ref{fig:qcreport}.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.95\textwidth]{img/qc_report.png}
+    \caption{Monthly QC Excel report for the Masan project. \href{https://docs.google.com/spreadsheets/d/1yyHL1tFLIVZeBgjMwj7fmTSsGMCXLm_qI3JgYEBOb7A/edit?usp=sharing}{Click here to view the full report.}}
+    \label{fig:qcreport}
+\end{figure}
