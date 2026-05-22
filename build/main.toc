@@ -59,9 +59,12 @@
 \contentsline {section}{\numberline {6.4}Internal Meetings}{23}{section.6.4}%
 \contentsline {chapter}{\numberline {7}Results Produced and Skills Developed}{25}{chapter.7}%
 \contentsline {section}{\numberline {7.1}Results Produced}{25}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Skills Developed}{25}{section.7.2}%
-\contentsline {chapter}{\numberline {8}Lessons Learned and Personal Comments}{26}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Lessons Learned}{26}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Personal Comments}{26}{section.8.2}%
-\contentsline {chapter}{\numberline {9}Conclusions}{27}{chapter.9}%
-\contentsline {chapter}{List of References}{28}{chapter*.16}%
+\contentsline {section}{\numberline {7.2}Skills Developed}{26}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Technical Tools}{26}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Professional and Soft Skills}{26}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}Domain Knowledge}{26}{subsection.7.2.3}%
+\contentsline {chapter}{\numberline {8}Lessons Learned and Personal Comments}{28}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Lessons Learned}{28}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Personal Comments}{28}{section.8.2}%
+\contentsline {chapter}{\numberline {9}Conclusions}{29}{chapter.9}%
+\contentsline {chapter}{List of References}{30}{chapter*.16}%
