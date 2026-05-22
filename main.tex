@@ -17,6 +17,7 @@
 \usepackage{booktabs}       % tables
 \usepackage{caption}        % figure/table captions
 \usepackage{hyperref}       % clickable TOC & references
+\usepackage{xurl}           % better URL breaking
 \usepackage{biblatex}       % bibliography
 \usepackage{lipsum}         % placeholder text — remove when writing content
 \addbibresource{references.bib}
@@ -34,6 +35,11 @@
     citecolor  = black,
     urlcolor   = blue,
 }
+
+% ── Allow biblatex URLs to break after any character ────────
+\setcounter{biburlnumpenalty}{100}
+\setcounter{biburlucpenalty}{100}
+\setcounter{biburllcpenalty}{100}
 
 % ============================================================
 \begin{document}
@@ -99,6 +105,7 @@
 % ── PAGE 33: List of References ─────────────────────────────
 \chapter*{List of References}
 \addcontentsline{toc}{chapter}{List of References}
+\nocite{*}
 \printbibliography[heading=none]
 
 \end{document}
