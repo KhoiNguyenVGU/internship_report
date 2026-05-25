@@ -1,7 +1,7 @@
-PWD C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report
+PWD c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report
 INPUT C:\Users\khoin\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT main.tex
-OUTPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.log
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\main.tex
+OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.log
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
@@ -166,43 +166,43 @@ INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\l3keys2e
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\declaration.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\declaration.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\declaration.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\abstract.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\abstract.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\abstract.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\01_introduction.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\01_introduction.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\01_introduction.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\02_organization.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\02_organization.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\02_organization.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\03_problems.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\03_problems.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\03_problems.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\04_technologies.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\04_technologies.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\04_technologies.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\05_tasks.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\05_tasks.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\05_tasks.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\06_communication.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\06_communication.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\06_communication.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\07_results.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\07_results.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\07_results.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\08_lessons.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\08_lessons.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\08_lessons.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\09_conclusions.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\09_conclusions.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\09_conclusions.aux
-OUTPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\declaration.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\declaration.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\declaration.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\abstract.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\abstract.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\abstract.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\01_introduction.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\01_introduction.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\01_introduction.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\02_organization.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\02_organization.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\02_organization.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\03_problems.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\03_problems.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\03_problems.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\04_technologies.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\04_technologies.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\04_technologies.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\05_tasks.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\05_tasks.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\05_tasks.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\06_communication.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\06_communication.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\06_communication.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\07_results.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\07_results.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\07_results.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\08_lessons.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\08_lessons.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\08_lessons.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\09_conclusions.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\09_conclusions.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\09_conclusions.aux
+OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.aux
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -218,23 +218,23 @@ INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.out
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.out
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.out
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.out
-OUTPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.pdf
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.out
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.out
-OUTPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.out
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.out
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.out
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.out
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.out
+OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.pdf
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.out
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.out
+OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.out
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
-OUTPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.bcf
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.bbl
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.bbl
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.bbl
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.bbl
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.bbl
+OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.bcf
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.bbl
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.bbl
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.bbl
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.bbl
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.bbl
 INPUT .\assets\Internship Cover.pdf
 INPUT .\assets\Internship Cover.pdf
 INPUT .\assets\Internship Cover.pdf
@@ -251,7 +251,7 @@ INPUT .\assets\Internship Cover.pdf
 INPUT .\assets\Internship Cover.pdf
 INPUT .\sections\declaration.tex
 INPUT .\sections\declaration.tex
-OUTPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\declaration.aux
+OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\declaration.aux
 INPUT .\sections\declaration.tex
 INPUT .\sections\declaration.tex
 INPUT sections\declaration.tex
@@ -267,25 +267,25 @@ INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tf
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
 INPUT C:\Users\khoin\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
-OUTPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
+OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.toc
 INPUT .\sections\abstract.tex
 INPUT .\sections\abstract.tex
-OUTPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\abstract.aux
+OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\abstract.aux
 INPUT .\sections\abstract.tex
 INPUT .\sections\abstract.tex
 INPUT sections\abstract.tex
 INPUT .\sections\01_introduction.tex
 INPUT .\sections\01_introduction.tex
-OUTPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\01_introduction.aux
+OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\01_introduction.aux
 INPUT .\sections\01_introduction.tex
 INPUT .\sections\01_introduction.tex
 INPUT sections\01_introduction.tex
 INPUT .\sections\02_organization.tex
 INPUT .\sections\02_organization.tex
-OUTPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\02_organization.aux
+OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\02_organization.aux
 INPUT .\sections\02_organization.tex
 INPUT .\sections\02_organization.tex
 INPUT sections\02_organization.tex
@@ -298,7 +298,7 @@ INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\vntex\vnr\vntt12.tf
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
 INPUT .\sections\03_problems.tex
 INPUT .\sections\03_problems.tex
-OUTPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\03_problems.aux
+OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\03_problems.aux
 INPUT .\sections\03_problems.tex
 INPUT .\sections\03_problems.tex
 INPUT sections\03_problems.tex
@@ -312,13 +312,13 @@ INPUT .\img\mis_detection_example.jpg
 INPUT .\img\mis_detection_example.jpg
 INPUT .\sections\04_technologies.tex
 INPUT .\sections\04_technologies.tex
-OUTPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\04_technologies.aux
+OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\04_technologies.aux
 INPUT .\sections\04_technologies.tex
 INPUT .\sections\04_technologies.tex
 INPUT sections\04_technologies.tex
 INPUT .\sections\05_tasks.tex
 INPUT .\sections\05_tasks.tex
-OUTPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\05_tasks.aux
+OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\05_tasks.aux
 INPUT .\sections\05_tasks.tex
 INPUT .\sections\05_tasks.tex
 INPUT sections\05_tasks.tex
@@ -394,68 +394,68 @@ INPUT .\img\qc_report.png
 INPUT .\img\qc_report.png
 INPUT .\sections\06_communication.tex
 INPUT .\sections\06_communication.tex
-OUTPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\06_communication.aux
+OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\06_communication.aux
 INPUT .\sections\06_communication.tex
 INPUT .\sections\06_communication.tex
 INPUT sections\06_communication.tex
 INPUT .\sections\07_results.tex
 INPUT .\sections\07_results.tex
-OUTPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\07_results.aux
+OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\07_results.aux
 INPUT .\sections\07_results.tex
 INPUT .\sections\07_results.tex
 INPUT sections\07_results.tex
 INPUT .\sections\08_lessons.tex
 INPUT .\sections\08_lessons.tex
-OUTPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\08_lessons.aux
+OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\08_lessons.aux
 INPUT .\sections\08_lessons.tex
 INPUT .\sections\08_lessons.tex
 INPUT sections\08_lessons.tex
 INPUT .\sections\09_conclusions.tex
 INPUT .\sections\09_conclusions.tex
-OUTPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\09_conclusions.aux
+OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\09_conclusions.aux
 INPUT .\sections\09_conclusions.tex
 INPUT .\sections\09_conclusions.tex
 INPUT sections\09_conclusions.tex
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\vntex\vnr\vnti12.tfm
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\tfm\vntex\vnr\vncsc10.tfm
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\declaration.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\declaration.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\declaration.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\abstract.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\abstract.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\abstract.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\01_introduction.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\01_introduction.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\01_introduction.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\02_organization.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\02_organization.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\02_organization.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\03_problems.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\03_problems.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\03_problems.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\04_technologies.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\04_technologies.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\04_technologies.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\05_tasks.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\05_tasks.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\05_tasks.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\06_communication.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\06_communication.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\06_communication.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\07_results.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\07_results.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\07_results.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\08_lessons.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\08_lessons.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\08_lessons.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\09_conclusions.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\09_conclusions.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\09_conclusions.aux
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.out
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.out
-INPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.run.xml
-OUTPUT C:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.run.xml
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\declaration.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\declaration.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\declaration.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\abstract.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\abstract.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\abstract.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\01_introduction.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\01_introduction.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\01_introduction.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\02_organization.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\02_organization.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\02_organization.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\03_problems.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\03_problems.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\03_problems.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\04_technologies.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\04_technologies.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\04_technologies.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\05_tasks.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\05_tasks.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\05_tasks.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\06_communication.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\06_communication.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\06_communication.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\07_results.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\07_results.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\07_results.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\08_lessons.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\08_lessons.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\08_lessons.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\09_conclusions.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\09_conclusions.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\sections\09_conclusions.aux
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.out
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.out
+INPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.run.xml
+OUTPUT c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.run.xml
 INPUT C:\Users\khoin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\khoin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\khoin\AppData\Local\Programs\MiKTeX\fonts\type1\vntex\vnr\vnbx12.pfb
