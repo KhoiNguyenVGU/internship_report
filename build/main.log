@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.25)  25 MAY 2026 16:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.25)  26 MAY 2026 11:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1100,7 +1100,7 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B567497F1AF14D1DBAD7C97508EA1FEB;14086.
+(rerunfilecheck)             Checksum: 5EFA84817AA5DC5DA4264E948BC5277C;14053.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
@@ -1108,13 +1108,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  20668 strings out of 468081
  379172 string characters out of 5425788
- 1311776 words of memory out of 5000000
+ 1311770 words of memory out of 5000000
  48911 multiletter control sequences out of 15000+600000
  640550 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,17n,79p,1451b,1460s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\khoin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/khoin/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/khoin/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vncsc10.pfb><C:/Users/khoin/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/khoin/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti12.pfb><C:/Users/khoin/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt12.pfb>
-Output written on "c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.pdf" (38 pages, 9306902 bytes).
+Output written on "c:\Users\khoin\OneDrive - student.vgu.edu.vn\Desktop\VGU\Internship + Thesis\Internship\report\build\main.pdf" (38 pages, 9306923 bytes).
 PDF statistics:
  726 PDF objects out of 1000 (max. 8388607)
  131 named destinations out of 1000 (max. 500000)
